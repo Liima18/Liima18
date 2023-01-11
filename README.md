@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é Yuri dos Santos Lima
 - 👀 Faço Análise e Desenvolvimento de Sistemas
 - 🌱 Pretendo fazer varios cursos para me especializar na área
-- 💞️ No momento estou a procura de um estágio para aprimorar meus conhecimentos
+- 💞️ No momento estou a procura do meu primeiro emprego na área para colocar em prática os conhecimentos adquiridos no curso
 - 📫 São Paulo, Brasil
 
 <!---
