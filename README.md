@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Yuri Lima!
 
-<!--
-**Liima18/Liima18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Frontend Developer
 
-Here are some ideas to get you started:
+Olá! Meu nome é **Yuri Lima**, um desenvolvedor frontend apaixonado por tecnologia desde os meus primeiros contatos com jogos ainda na infância. Essa paixão me levou ao mundo do desenvolvimento, onde busco sempre criar soluções digitais incríveis e aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias e Ferramentas
+💻 **Linguagens e Frameworks**:  
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, React Native, Angular  
+- **UI e Estilização**: Styled Components, Shadcn, Radix, MUI, Tamagui  
+- **Validação e Formulários**: Hook Form, Zod  
+- **Backend e Banco de Dados**: Nest, Postgres  
+- **Ferramentas**: Postman, Git  
+
+---
+
+### ✨ Sobre Mim
+- 🎮 **Hobby**: Jogar alguns jogos no tempo livre.  
+- 🌱 **Motivação**: Sempre motivado a explorar novas tecnologias para melhorar minhas soluções digitais.  
+- 🛠 **Meta**: Transformar ideias em interfaces incríveis e funcionais.
