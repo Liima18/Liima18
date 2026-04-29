@@ -1,22 +1,58 @@
-# 👋 Olá, eu sou Yuri Lima!
+# 👋 Hi, I'm Yuri Lima
 
-### 🌐 Frontend Developer
+### 💻 Full Stack Developer | AI-powered Systems
 
-Olá! Meu nome é **Yuri Lima**, um desenvolvedor frontend apaixonado por tecnologia desde os meus primeiros contatos com jogos ainda na infância. Essa paixão me levou ao mundo do desenvolvimento, onde busco sempre criar soluções digitais incríveis e aprimorar minhas habilidades.
+I'm a Full Stack Developer with strong experience in the TypeScript ecosystem (Node.js, React, Next.js), focused on building scalable and production-ready systems.
 
----
-
-### 🚀 Tecnologias e Ferramentas
-💻 **Linguagens e Frameworks**:  
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, React Native, Angular  
-- **UI e Estilização**: Styled Components, Shadcn, Radix, MUI, Tamagui  
-- **Validação e Formulários**: Hook Form, Zod  
-- **Backend e Banco de Dados**: Nest, Postgres  
-- **Ferramentas**: Postman, Git  
+I currently work on developing AI-driven applications, creating and orchestrating agents using LangChain and LangGraph, as well as building RAG pipelines for document processing and semantic search.
 
 ---
 
-### ✨ Sobre Mim
-- 🎮 **Hobby**: Jogar alguns jogos no tempo livre.  
-- 🌱 **Motivação**: Sempre motivado a explorar novas tecnologias para melhorar minhas soluções digitais.  
-- 🛠 **Meta**: Transformar ideias em interfaces incríveis e funcionais.
+## 🚀 Tech Stack
+
+### 🧠 Backend & Architecture
+- Node.js, NestJS
+- REST APIs
+- Asynchronous systems
+- Microservices
+
+### 🎨 Frontend
+- React, Next.js
+- TypeScript
+- Angular
+- Tailwind / Modern UI systems
+
+### 🤖 AI & Data
+- LangChain
+- LangGraph
+- RAG (Retrieval-Augmented Generation)
+- Embeddings & LLM integration
+
+### ☁️ Cloud & Infra
+- AWS (SQS, S3, SNS)
+- Scalable architectures
+
+---
+
+## 🔥 What I Build
+
+- SaaS platforms
+- AI-powered systems
+- Real-time and distributed applications
+- Full stack applications (frontend + backend + cloud)
+
+---
+
+## 🎯 About Me
+
+- 🎮 Gamer since childhood — grew up playing PlayStation and competitive PC games  
+- 🧠 Always learning and exploring new technologies  
+- ⚙️ Passionate about solving real-world problems with software  
+- 🚀 Focused on building systems that scale and deliver real value  
+
+---
+
+## 📫 Let's connect
+
+- LinkedIn: https://linkedin.com/in/yurilima18
+- Email: yuridlima@gmail.com
